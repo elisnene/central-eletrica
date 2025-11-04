@@ -5,13 +5,14 @@ import path from 'path'
 export default defineConfig({
   plugins: [react()],
   base: '/',
+  root: 'client',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './client/src'),
     },
   },
   build: {
-    outDir: 'dist',
+    outDir: '../dist',
     emptyOutDir: true,
   },
 })
