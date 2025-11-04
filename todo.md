@@ -25,6 +25,12 @@
 - [ ] Gerar QR Code para a URL final
 - [ ] Criar instruções de uso do NFC
 
+## Design e Estilo
+
+- [ ] Redesenhar página com estilo EngEasier (gradiente azul/teal)
+- [ ] Gerar imagens/ilustrações de eletricidade
+- [ ] Implementar novo layout com banner visual
+
 ## Documentação
 
 - [ ] Criar guia de uso para o usuário
